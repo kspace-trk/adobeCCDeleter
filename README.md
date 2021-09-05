@@ -1,4 +1,5 @@
 # adobeCCDeleter
+Adobe Creative Cloudの削除済みを自動で削除するPuppeteerプログラムです。
 
 ## 環境構築
 nodejsをインストールしておいてください。
