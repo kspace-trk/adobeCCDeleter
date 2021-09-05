@@ -40,7 +40,7 @@ const LOGIN_PASS_SELECTOR = "input[type=password]";
 const LOGIN_USER_SUBMIT_SELECTOR = "button[data-id=EmailPage-ContinueButton]";
 const LOGIN_PASS_SUBMIT_SELECTOR = "button[data-id=PasswordPage-ContinueButton]";
 const deleteBtn = "button[data-test-id=CollectionHeader__permanentlyDelete]";
-const completeDeleteBtn = ".spectrum-Button--warning"
+const completeDeleteBtn = ".spectrum-Button--warning";
 
 /**
  * メイン処理です。
